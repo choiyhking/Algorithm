@@ -11,6 +11,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "DC_3_쿼드트리", "DC_3_�
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "DP_1_플로이드", "DP_1_플로이드\DP_1_플로이드.vcxproj", "{A4F3A186-BA56-4120-8516-CA51F4CD5517}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "DP_2_플로이드2", "DP_2_플로이드2\DP_2_플로이드2.vcxproj", "{512F956B-DB7D-4748-ABE4-C728F1106BA4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -51,6 +53,14 @@ Global
 		{A4F3A186-BA56-4120-8516-CA51F4CD5517}.Release|x64.Build.0 = Release|x64
 		{A4F3A186-BA56-4120-8516-CA51F4CD5517}.Release|x86.ActiveCfg = Release|Win32
 		{A4F3A186-BA56-4120-8516-CA51F4CD5517}.Release|x86.Build.0 = Release|Win32
+		{512F956B-DB7D-4748-ABE4-C728F1106BA4}.Debug|x64.ActiveCfg = Debug|x64
+		{512F956B-DB7D-4748-ABE4-C728F1106BA4}.Debug|x64.Build.0 = Debug|x64
+		{512F956B-DB7D-4748-ABE4-C728F1106BA4}.Debug|x86.ActiveCfg = Debug|Win32
+		{512F956B-DB7D-4748-ABE4-C728F1106BA4}.Debug|x86.Build.0 = Debug|Win32
+		{512F956B-DB7D-4748-ABE4-C728F1106BA4}.Release|x64.ActiveCfg = Release|x64
+		{512F956B-DB7D-4748-ABE4-C728F1106BA4}.Release|x64.Build.0 = Release|x64
+		{512F956B-DB7D-4748-ABE4-C728F1106BA4}.Release|x86.ActiveCfg = Release|Win32
+		{512F956B-DB7D-4748-ABE4-C728F1106BA4}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

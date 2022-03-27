@@ -4,33 +4,25 @@
 #define MAX 11
 
 #include <stdio.h>
-#include <stdlib.h>
 
 int makeSumOf123(int num);
 
 int D[MAX];
 
 int main() {
-	int n;
-	int* input;
-	
+	int n, temp;
+
 	scanf("%d", &n);
-
-	input = (int*)malloc(sizeof(int) * n);
-
-	for (int i = 0;i < n;i++) {
-		scanf("%d", &input[i]);
-	}
 
 	// init
 	D[0] = 1; D[1] = 1; D[2] = 2;
-
+	
 	for (int i = 0;i < n;i++) {
-		printf("%d\n", makeSumOf123(input[i]));
+		scanf("%d", &temp);
+
+		printf("%d\n", makeSumOf123(temp));
 	}
 	
-	free(input);
-
 	return 0;
 }
 

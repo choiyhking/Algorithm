@@ -27,6 +27,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "DP_8_쉬운 계단 수", "D
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "DP_9_오르막 수", "DP_9_오르막 수\DP_9_오르막 수.vcxproj", "{80CD6472-F4DF-4CB8-AAC7-FFC2CBF805AD}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "DP_10_가로등 끄기", "DP_10_가로등 끄기\DP_10_가로등 끄기.vcxproj", "{9F7CBC4D-2F5B-4FC0-A9F3-32D6A985E8A2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -131,6 +133,14 @@ Global
 		{80CD6472-F4DF-4CB8-AAC7-FFC2CBF805AD}.Release|x64.Build.0 = Release|x64
 		{80CD6472-F4DF-4CB8-AAC7-FFC2CBF805AD}.Release|x86.ActiveCfg = Release|Win32
 		{80CD6472-F4DF-4CB8-AAC7-FFC2CBF805AD}.Release|x86.Build.0 = Release|Win32
+		{9F7CBC4D-2F5B-4FC0-A9F3-32D6A985E8A2}.Debug|x64.ActiveCfg = Debug|x64
+		{9F7CBC4D-2F5B-4FC0-A9F3-32D6A985E8A2}.Debug|x64.Build.0 = Debug|x64
+		{9F7CBC4D-2F5B-4FC0-A9F3-32D6A985E8A2}.Debug|x86.ActiveCfg = Debug|Win32
+		{9F7CBC4D-2F5B-4FC0-A9F3-32D6A985E8A2}.Debug|x86.Build.0 = Debug|Win32
+		{9F7CBC4D-2F5B-4FC0-A9F3-32D6A985E8A2}.Release|x64.ActiveCfg = Release|x64
+		{9F7CBC4D-2F5B-4FC0-A9F3-32D6A985E8A2}.Release|x64.Build.0 = Release|x64
+		{9F7CBC4D-2F5B-4FC0-A9F3-32D6A985E8A2}.Release|x86.ActiveCfg = Release|Win32
+		{9F7CBC4D-2F5B-4FC0-A9F3-32D6A985E8A2}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
